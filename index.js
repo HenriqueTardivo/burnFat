@@ -4,4 +4,6 @@ function timer() {
 
   document.getElementById("tempo1").innerHTML = exercicio;
   document.getElementById("tempo2").innerHTML = descanso;
+
+  //setInterval
 }
